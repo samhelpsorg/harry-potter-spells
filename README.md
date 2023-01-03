@@ -11,4 +11,4 @@ According to our glossary, we have been able to add more information about the d
 All you have to do is follow the **link in this description** to get to where you need to be.
 
 **Contact Information**
-[https://www.samhelps.org/contact-us/]**
+[https://www.samhelps.org/contact-us/]
